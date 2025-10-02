@@ -11,5 +11,4 @@ pip install -r requirements.txt
 python -m src.main
 
 ```
-# CodeAlpha_Chatbot-for-FAQs
-# CodeAlpha_Chatbot-for-FAQs
+
